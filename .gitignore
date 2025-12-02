@@ -1,0 +1,6 @@
+skedd10.*
+fp-info-cache
+fp-lib-table
+out/
+*-backups/
+*.kicad_prl
