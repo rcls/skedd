@@ -1,7 +1,7 @@
 
 KICAD_PRO:=$(wildcard *.kicad_pro)
 #PROJECTS=$(KICAD_PRO:%.kicad_pro=%)
-PROJECTS=skedd6
+PROJECTS=skedd6 skedd-jtag6
 
 all: $(PROJECTS:%=%.all)
 
