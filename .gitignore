@@ -4,3 +4,4 @@ fp-lib-table
 out/
 *-backups/
 *.kicad_prl
+~*.lck
